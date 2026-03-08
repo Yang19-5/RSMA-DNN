@@ -3,7 +3,7 @@ The source code of RSMA-DNN is the original version. During the execution of oth
 
 # DNN Partitioning and Offloading in Vehicular Networks Based on RSMA.
 
-This is a code package related to the following pape:
+This is a code package related to the following paper:
 
 Zhijian Lin, Senior Member, IEEE, Shaowei Yang, Celimuge Wu, Senior Member, IEEE, Wenhao Wu, Zhizhao Lu, Jiguang He, Senior Member, IEEE and Linhuang Wu "DNN Partitioning and Offloading in Vehicular Networks Based on RSMA," IEEE TVT.
 

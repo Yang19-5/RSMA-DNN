@@ -1,6 +1,5 @@
 # RSMA-DNN
-The RSMA-DNN source code is the original version of the code. Subsequently, it was modified when running other simulations and contents.
-Currently, GitHub is still being improved.
+The source code of RSMA-DNN is the original version. During the execution of other simulations and contents, this code was modified. Currently, the modified code is being sorted out, so the original version of the code is being uploaded first.
 
 # DNN Partitioning and Offloading in Vehicular Networks Based on RSMA.
 

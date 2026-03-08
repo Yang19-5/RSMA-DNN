@@ -1,3 +1,3 @@
 # RSMA-DNN
-RSMA-DNN源码是最初版本的代码，后续在跑其他仿真和内容时对其进行了修改
-
+The RSMA-DNN source code is the original version of the code. Subsequently, it was modified when running other simulations and contents.
+Currently, GitHub is still being improved.
